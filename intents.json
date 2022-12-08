@@ -1,0 +1,15 @@
+{"intents": [
+  {"tag": "greetings",
+    "patterns": ["hello","hey","hi","good day","greetings","what's up!","how is it going?"],
+    "responses": ["Hello","Hey","What can I do for you?"]
+  },
+  {"tag": "goodbye",
+    "patterns": ["see you","bye","see you later","goodbye","I am leaving","have a nice day","have a good day","see ya"],
+    "responses": ["Sad to see you go:(","Talk to you later","Goodbye!"]
+
+  },
+  {"tag": "age",
+    "patterns": ["how old","how old are you","what is your age","goodbye","age?","how old is Anujna"],
+    "responses": ["My owner Anujna is 20 years old","20 years!"]
+  }
+]}
